@@ -1,0 +1,8 @@
+{
+  "name": "NEXORIA TOURNAMENTS",
+  "description": "A high-performance BGMI tournament platform with Nexoria AI-driven anti-cheat analysis, real-time balance management, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
